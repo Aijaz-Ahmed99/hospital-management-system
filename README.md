@@ -23,9 +23,9 @@ A simple yet powerful console-based Hospital Management System built in Python. 
 
 hospital-management/
 - │
-- ├── main.py               - Entry point
-- ├── store.csv             - Stores patient records
-- ├── README.md             - Project documentation
+- ├── main.py 
+- ├── store.csv
+- ├── README.md 
 
 ## ❗ Notes
 
