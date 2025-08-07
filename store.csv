@@ -1,0 +1,3 @@
+patient_id,name,age,gender,disease,admit_date
+01,diji,67,female,action,2025-08-06
+02,azad,34,male,fly,2025-08-07
