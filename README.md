@@ -22,10 +22,10 @@ A simple yet powerful console-based Hospital Management System built in Python. 
 ## 📁 Project Structure
 
 hospital-management/
-│
-├── main.py               # Entry point
-├── store.csv             # Stores patient records
-├── README.md             # Project documentation
+- │
+- ├── main.py               # Entry point
+- ├── store.csv             # Stores patient records
+- ├── README.md             # Project documentation
 
 ## ❗ Notes
 
@@ -34,5 +34,4 @@ hospital-management/
 
 ## ✍️ Author
 **Aijaz Ahmed**
-Python developer | AI Enthuasist
-
+Python developer | AI Enthusiast
